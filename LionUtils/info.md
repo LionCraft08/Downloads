@@ -26,7 +26,7 @@ The UI provides an option to set global settings and create custom settings for 
 </details>
 <details>
 <summary>Inventory Viewer</summary>
-/inv <player>
+/inv <player><br>
 Allows Operators to open Inventorys of every Player on the Server, as well as adding and removing Items.<br>
 Includes support for Offhand, Armor slots and the Ender Chest.<br>
 Be Careful with mods that sort inventories, as this could cause Item Duplication
@@ -38,5 +38,10 @@ Be Careful with mods that sort inventories, as this could cause Item Duplication
 Allows users that can fly to set their fly speed. <br>
 Range between -10 and 10.<br>
 If you set it to a negative value, this will inverty your direction (Idk what this could be useful for but it was fun while testing xd)
+
+</details>
+<details>
+<summary>MOTD</summary>
+Allows you to set custom MOTDs for when the server is empty and when the server has players on it, including the option to add a random player's name to the text. 
 
 </details>

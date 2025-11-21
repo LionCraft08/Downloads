@@ -1,6 +1,6 @@
 # LionVelocity
 is a velocity plugin that provides basic functions allowing vanilla-style player management for the whole network. <br>
-| This description is outdated. Look [here](https://github.com/LionCraft08/LionVelocity/blob/master/README.md) for an updated version 
+> <strong>This description is outdated. Look [here](https://github.com/LionCraft08/LionVelocity/blob/master/README.md) for an updated version</strong>
 
 # Features 
 <details><summary>

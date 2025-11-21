@@ -1,6 +1,6 @@
 # LionAPI 
 ist der Kern meiner Projekte und sollte auf jedem Server mit einem meiner Plugins vorhanden sein.
-> <strong>This description is outdated. Look [here](https://github.com/LionCraft08/lionAPI/blob/master/README.md) for an updated version</strong>
+> <strong>This description is outdated. Look [here](https://github.com/LionCraft08/lionAPI/blob/master/readme.md) for an updated version</strong>
 # Usage
 - Commands: 
 - - /ls: Öffnet das Konfigurationsmenü 

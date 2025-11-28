@@ -1,5 +1,6 @@
 # LionUtils
 Dieses Plugin ergänzt LionAPI um einige Quality of Life features und sorgt für das Feeling eines Custom Servers<br>
+> <strong>This description is outdated. Look [here]( https://github.com/LionCraft08/LionUtils/blob/master/README.md) for an updated version</strong>
 
 # Features
 <br>

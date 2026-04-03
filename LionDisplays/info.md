@@ -1,3 +1,6 @@
+https://modrinth.com/mod/liondisplays
+Consider using modrinth to download this mod
+
 # LionDisplays
 Eine Fabric-Mod die es meinen Plugins ermöglicht, mehr Elemente auf dem Bildschirm anzuzeigen. 
 Optional, aber praktisch: )
